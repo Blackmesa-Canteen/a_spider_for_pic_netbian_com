@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# @FileName  :biAnTuSouTu.py
+# @FileName  :netbian_images.py
 # @Time      :2021/1/24 12:03 PM
 # @Author    :Xiaotian
 
@@ -62,8 +62,10 @@ def downloadImagesOnThisPage(htmlText):
 
 if __name__ == '__main__':
 
-    # this url requires image name and give us image id for searching
+    # this url requires ENGLISH image name and give us image id for searching
     query_imgId_url = "http://pic.netbian.com/e/search/index.php"
+
+    # example: keyword = 'saber'
     keyword = input("what image do you want?\n")
     print("keyword confirmed:", keyword)
 
