@@ -156,3 +156,744 @@ JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebG
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1611908738872	geckodriver	INFO	Listening on 127.0.0.1:62609
+1611908739891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileHy7ait"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611908741997	Marionette	INFO	Listening on port 62615
+1611908742074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611908742083	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1611908806926	geckodriver	INFO	Listening on 127.0.0.1:62775
+1611908806943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofile9zivvw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611908809006	Marionette	INFO	Listening on port 62780
+1611908809026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611908809037	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1611908839519	Marionette	ERROR	[35] No reply from Marionette:Register
+1611908856710	Marionette	ERROR	[40] No reply from Marionette:Register
+1611908869124	Marionette	ERROR	[42] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1611908900078	geckodriver	INFO	Listening on 127.0.0.1:62952
+1611908900109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilexIGmGm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611908902381	Marionette	INFO	Listening on port 62957
+1611908902409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611908902420	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1611908956369	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1611908967813	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1611917908661	Marionette	INFO	Stopped listening on port 62780
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611917910595	Marionette	INFO	Stopped listening on port 62957
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611990140337	geckodriver	INFO	Listening on 127.0.0.1:64733
+1611990140368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofiles9hC1m"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990141840	Marionette	INFO	Listening on port 64739
+1611990141938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990141946	Marionette	ERROR	[19] No reply from Marionette:Register
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1611990184753	geckodriver	INFO	Listening on 127.0.0.1:64827
+1611990184770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileU3EKQz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990186194	Marionette	INFO	Listening on port 64832
+1611990186224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990186231	Marionette	ERROR	[19] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8027, IPC I/O Child] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:697
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1611990227648	geckodriver	INFO	Listening on 127.0.0.1:64968
+1611990227664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileBA5SKn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990229581	Marionette	INFO	Listening on port 64973
+1611990229635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990229641	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1611990247838	Marionette	INFO	Stopped listening on port 64973
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611990299458	geckodriver	INFO	Listening on 127.0.0.1:65058
+1611990299474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilebKv8Hg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990300890	Marionette	INFO	Listening on port 65063
+1611990300920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990300928	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1611990331351	Marionette	INFO	Stopped listening on port 65063
+1612001179135	geckodriver	INFO	Listening on 127.0.0.1:50001
+1612001180151	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileRHZtd9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612001182423	Marionette	INFO	Listening on port 50007
+1612001182442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612001182452	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1612001210050	geckodriver	INFO	Listening on 127.0.0.1:50082
+1612001210059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilerCcKFK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612001212192	Marionette	INFO	Listening on port 50087
+1612001212249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612001212260	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612001221047	Marionette	INFO	Stopped listening on port 50087
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612001223109	Marionette	INFO	Stopped listening on port 50007
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612001229490	geckodriver	INFO	Listening on 127.0.0.1:50155
+1612001229500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileLqgcV7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612001231414	Marionette	INFO	Listening on port 50160
+1612001231486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612001231495	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612001242758	geckodriver	INFO	Listening on 127.0.0.1:50221
+1612001242769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofile2jqlPi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612001244911	Marionette	INFO	Listening on port 50226
+1612001244976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612001244985	Marionette	ERROR	[16] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1612003090609	geckodriver	INFO	Listening on 127.0.0.1:50880
+1612003091625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileXNhWUk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612003093963	Marionette	INFO	Listening on port 50886
+1612003094040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612003094050	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1612003136655	geckodriver	INFO	Listening on 127.0.0.1:50961
+1612003137673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofile3QcwFI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612003139910	Marionette	INFO	Listening on port 50967
+1612003139987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612003139996	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1612003148353	Marionette	INFO	Stopped listening on port 50160
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612003149677	Marionette	INFO	Stopped listening on port 50226
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1612003151125	Marionette	INFO	Stopped listening on port 50886
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612003153534	Marionette	INFO	Stopped listening on port 50967
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612003182610	geckodriver	INFO	Listening on 127.0.0.1:51047
+1612003182620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofiley697td"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612003184828	Marionette	INFO	Listening on port 51052
+1612003184929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612003184937	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1612004458569	geckodriver	INFO	Listening on 127.0.0.1:51790
+1612004458595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileQOjvlP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612004461159	Marionette	INFO	Listening on port 51795
+1612004461212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612004461220	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+1612004710782	geckodriver	INFO	Listening on 127.0.0.1:51932
+1612004711794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilePhHVi9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612004714005	Marionette	INFO	Listening on port 51938
+1612004714097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612004714105	Marionette	ERROR	[16] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1612004771053	geckodriver	INFO	Listening on 127.0.0.1:52010
+1612004772069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileCJzWBT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612004774118	Marionette	INFO	Listening on port 52016
+1612004774174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612004774184	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1612004963775	Marionette	INFO	Stopped listening on port 51938
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612004965155	Marionette	INFO	Stopped listening on port 51795
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612004966696	Marionette	INFO	Stopped listening on port 51052
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612004967953	Marionette	INFO	Stopped listening on port 52016
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612005052777	geckodriver	INFO	Listening on 127.0.0.1:52151
+1612005053794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilepyHxyO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005055879	Marionette	INFO	Listening on port 52157
+1612005055991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005056000	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612005123839	geckodriver	INFO	Listening on 127.0.0.1:52239
+1612005123851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofile8DRQ0j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005125903	Marionette	INFO	Listening on port 52244
+1612005125957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005125966	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1612005128984	Marionette	INFO	Stopped listening on port 52157
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+JavaScript warning: https://bbs.csdn.net/topics/390919751, line 967: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+1612005392411	geckodriver	INFO	Listening on 127.0.0.1:52459
+1612005393419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileA3yph7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005395667	Marionette	INFO	Listening on port 52465
+1612005395730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005395740	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+1612005434634	geckodriver	INFO	Listening on 127.0.0.1:52538
+1612005434646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileIN1yMO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005436937	Marionette	INFO	Listening on port 52543
+1612005437053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005437062	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612005467426	geckodriver	INFO	Listening on 127.0.0.1:52625
+1612005468444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilejtuKdK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005470663	Marionette	INFO	Listening on port 52631
+1612005470766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005470774	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+1612005547912	Marionette	INFO	Stopped listening on port 52244
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612005549072	Marionette	INFO	Stopped listening on port 52465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612005550261	Marionette	INFO	Stopped listening on port 52543
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612005551694	Marionette	INFO	Stopped listening on port 52631
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612005629611	geckodriver	INFO	Listening on 127.0.0.1:52761
+1612005629621	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileVwkh58"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005631800	Marionette	INFO	Listening on port 52766
+1612005631821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005631830	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1612005668964	Marionette	INFO	Stopped listening on port 52766
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612005712044	geckodriver	INFO	Listening on 127.0.0.1:52838
+1612005712056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofiles0Ph1r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005714187	Marionette	INFO	Listening on port 52843
+1612005714259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005714267	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 18 extraneous bytes before marker 0xd9
+1612005914663	geckodriver	INFO	Listening on 127.0.0.1:52979
+1612005914675	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileFWl4Bm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612005916758	Marionette	INFO	Listening on port 52984
+1612005916876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612005916884	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1612006034565	geckodriver	INFO	Listening on 127.0.0.1:53091
+1612006034576	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilea6MGlQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612006036577	Marionette	INFO	Stopped listening on port 52843
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612006036924	Marionette	INFO	Listening on port 53096
+1612006036998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612006037010	Marionette	ERROR	[16] No reply from Marionette:Register
+1612006038201	Marionette	INFO	Stopped listening on port 52984
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1612006061646	geckodriver	INFO	Listening on 127.0.0.1:53161
+1612006061658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileo3qea8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612006063901	Marionette	INFO	Listening on port 53166
+1612006063969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612006063980	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612006087526	Marionette	INFO	Stopped listening on port 53096
+1612006089268	Marionette	INFO	Stopped listening on port 53166
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612006419090	geckodriver	INFO	Listening on 127.0.0.1:53431
+1612006419101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileBYnyos"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612006421213	Marionette	INFO	Listening on port 53436
+1612006421299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612006421308	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+1612009607574	Marionette	INFO	Stopped listening on port 53436
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612009683483	geckodriver	INFO	Listening on 127.0.0.1:54054
+1612009684494	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofile4t6wdX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612009686798	Marionette	INFO	Listening on port 54060
+1612009686908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612009686917	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1612009751690	geckodriver	INFO	Listening on 127.0.0.1:54134
+1612009751701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilebhdZrQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612009754089	Marionette	INFO	Listening on port 54139
+1612009754206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612009754217	Marionette	ERROR	[16] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612009804757	Marionette	INFO	Stopped listening on port 54139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612009806881	Marionette	INFO	Stopped listening on port 54060
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612009808139	geckodriver	INFO	Listening on 127.0.0.1:54216
+1612009808148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileYWbUGI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612009810371	Marionette	INFO	Listening on port 54221
+1612009810450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612009810458	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1612009895689	geckodriver	INFO	Listening on 127.0.0.1:54306
+1612009896701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileI2WBb1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612009898898	Marionette	INFO	Listening on port 54312
+1612009899000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612009899008	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 12 extraneous bytes before marker 0x2b
+1612009918199	Marionette	INFO	Stopped listening on port 54221
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612009921080	Marionette	INFO	Stopped listening on port 54312
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612009924555	geckodriver	INFO	Listening on 127.0.0.1:54386
+1612009924565	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileDXXxMM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612009926807	Marionette	INFO	Listening on port 54391
+1612009926867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612009926875	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1612009953499	geckodriver	INFO	Listening on 127.0.0.1:54472
+1612009953510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileucbWQO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612009955733	Marionette	INFO	Listening on port 54477
+1612009955812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612009955821	Marionette	ERROR	[16] No reply from Marionette:Register
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1612010001497	geckodriver	INFO	Listening on 127.0.0.1:54554
+1612010001507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileKj1Nf6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612010003778	Marionette	INFO	Listening on port 54559
+1612010003812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612010003822	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1612010329869	Marionette	INFO	Stopped listening on port 54559
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612010331892	Marionette	INFO	Stopped listening on port 54477
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  Message: Error: Shutdown, aborting read-only worker requests.
+  Stack:
+    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.jsm:143:19
+@resource://services-settings/RemoteSettingsWorker.jsm:219:28
+trigger@resource://gre/modules/AsyncShutdown.jsm:745:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:897:15
+wait@resource://gre/modules/AsyncShutdown.jsm:878:34
+observe@resource://gre/modules/AsyncShutdown.jsm:555:10
+
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+1612010334322	Marionette	INFO	Stopped listening on port 54391
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612060439605	geckodriver	INFO	Listening on 127.0.0.1:56713
+1612060439633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileQIPa5S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612060442285	Marionette	INFO	Listening on port 56718
+1612060442365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612060442373	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612060493588	geckodriver	INFO	Listening on 127.0.0.1:56816
+1612060493597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofiledt55sK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612060495757	Marionette	INFO	Listening on port 56821
+1612060495801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612060495812	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1612060863420	geckodriver	INFO	Listening on 127.0.0.1:56961
+1612060863430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileG7dlzP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612060865593	Marionette	INFO	Listening on port 56966
+1612060865644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612060865658	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+1612061048168	geckodriver	INFO	Listening on 127.0.0.1:57088
+1612061049191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofiletIvYsO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061051608	Marionette	INFO	Listening on port 57094
+1612061051702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061051710	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+1612061081853	Marionette	INFO	Stopped listening on port 57094
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061084219	Marionette	INFO	Stopped listening on port 56821
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061086026	Marionette	INFO	Stopped listening on port 56718
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061087727	Marionette	INFO	Stopped listening on port 56966
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061089206	geckodriver	INFO	Listening on 127.0.0.1:57176
+1612061089216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileNfnayg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061091343	Marionette	INFO	Listening on port 57181
+1612061091422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061091429	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1612061126393	geckodriver	INFO	Listening on 127.0.0.1:57249
+1612061126405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileh6MqbF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061128624	Marionette	INFO	Listening on port 57254
+1612061128708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061128717	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1612061158155	geckodriver	INFO	Listening on 127.0.0.1:57318
+1612061158167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileUMZ70m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061160186	Marionette	INFO	Listening on port 57323
+1612061160265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061160274	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1612061235144	geckodriver	INFO	Listening on 127.0.0.1:57415
+1612061235156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofilenadfDi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061237371	Marionette	INFO	Listening on port 57420
+1612061237461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061237469	Marionette	ERROR	[19] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1612061274336	Marionette	INFO	Stopped listening on port 57420
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061277274	geckodriver	INFO	Listening on 127.0.0.1:57502
+1612061277286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileNY8aRR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061279223	Marionette	INFO	Listening on port 57507
+1612061279284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061279293	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1612061319902	Marionette	INFO	Stopped listening on port 57507
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061333669	geckodriver	INFO	Listening on 127.0.0.1:57588
+1612061333681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileXdXYho"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061335651	Marionette	INFO	Listening on port 57593
+1612061335677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061335685	Marionette	ERROR	[19] No reply from Marionette:Register
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1612061371562	Marionette	INFO	Stopped listening on port 57593
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612061394539	geckodriver	INFO	Listening on 127.0.0.1:57674
+1612061394551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xk/d74b7w_x2gsc9thzlk_8006m0000gn/T/rust_mozprofileQqtQWY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612061396635	Marionette	INFO	Listening on port 57679
+1612061396746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612061396754	Marionette	ERROR	[16] No reply from Marionette:Register
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1612061430909	Marionette	INFO	Stopped listening on port 57679
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
